@@ -5,11 +5,12 @@ h1 {color: goldenrod;}
 p {
     color:black
 }
-button { background-color: rgb(44, 1, 1);
+button { background-color: rgb(22, 1, 1);
     color: green;
     font-family: monospace;
     font-size: larger;
     object-position: center;
+    border: rgb(100,0,0)
     
 
 }
