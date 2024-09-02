@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+
+body {
+    background-color: black;
+    color:goldenrod;
+    font-family: "Kode Mono", monospace;
+}
+
+#principal {
+    font-size: xx-large; font-weight: bold;
+}
+
+span {
+    background-color: blue;
+    color: red;
+    font-weight: bold;
+}
+div {
+    background-color: rgb(14, 68, 14);
+    font-size: larger;
+    width: 100vw;
+}
+
+#fim {
+    height: 20px;
+    color: rgb(14, 68, 14);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {text-align: center;
+}
+#wred {
+    display: block; margin: auto;
+
+}
